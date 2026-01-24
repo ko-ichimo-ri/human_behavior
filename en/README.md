@@ -4,7 +4,9 @@
 
 ## Table of Contents
 
-1. [Basics](chapters/01-introduction.md)
+1. [Basics](chapters/01-basics.md)
+2. [Advanced](chapters/02-advanced.md)
+3. [Living in the Age of AI and Robots](chapters/03-ai-robots.md)
 
 ## About This Book
 

@@ -4,7 +4,9 @@
 
 ## 目次
 
-1. [基礎編](chapters/01-introduction.md)
+1. [基礎編](chapters/01-basics.md)
+2. [応用編](chapters/02-advanced.md)
+3. [AI・ロボット時代の生き方](chapters/03-ai-robots.md)
 
 ## この本について
 
