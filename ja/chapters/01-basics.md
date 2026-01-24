@@ -93,10 +93,16 @@ title: 第1章 - 基礎編
 
 ## まとめ
 
-## 他の紹介
-- 試行錯誤のエッセイとアイデア
-- 応用編
-- AI・ロボット時代の生き方
+## 関連ページ
+
+本文
+- [応用編](https://ko-ichimo-ri.github.io/human_behavior/ja/chapters/02-advanced.html)
+- [AI・ロボット時代の生き方](https://ko-ichimo-ri.github.io/human_behavior/ja/chapters/03-ai-robots.html)
+
+洗練される前のもの
+- [アイデア集](https://github.com/ko-ichimo-ri/poem/blob/main/human_behavior/memo/strategy.md)
+- [書きかけのエッセイ](https://github.com/ko-ichimo-ri/poem/blob/main/human_behavior/essay.md)
+
 
 [^math]: 数学の専門家的には公理と推論規則のほうがしっくり来るかと思いますが、わかりやすさ・馴染みやすさを優先した書き方にしました。
 
