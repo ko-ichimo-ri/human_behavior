@@ -1,0 +1,30 @@
+# Build outputs
+/build
+/dist
+*.pdf
+*.epub
+*.html
+
+# Dependencies
+/node_modules
+/venv
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jekyll
+.jekyll-cache/
+.jekyll-metadata
+_site/
+
+# Temporary files
+*.tmp
+*.log
