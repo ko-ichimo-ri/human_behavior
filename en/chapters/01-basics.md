@@ -133,6 +133,7 @@ Based on the discussion above, let me classify human activity exhaustively witho
 Below is the classification table of human behavior. Note that "objects" cannot be given "development" because they are unchangeable.
 
 1. When assigning "validity" to "input/output" and "development" to "processing"  
+   
    | | "Input/Output" is "Individual" | "Input/Output" is "Society" | "Input/Output" is "Object" |
    |---|---|---|---|
    | "Processing" is "Individual" | Art | Technology | Science |
@@ -140,6 +141,7 @@ Below is the classification table of human behavior. Note that "objects" cannot 
    
    ※ "Objects" cannot be given "development," so they cannot become "processing" with "development"
 2. When assigning "validity" to "processing" and "development" to "input/output"  
+   
    | | "Input/Output" is "Individual" | "Input/Output" is "Society" |
    |---|---|---|
    | "Processing" is "Individual" | Philosophy | Culture |
