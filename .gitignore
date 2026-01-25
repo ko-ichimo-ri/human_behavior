@@ -3,7 +3,10 @@
 /dist
 *.pdf
 *.epub
+# Exclude HTML except layout templates
 *.html
+!_layouts/*.html
+!_includes/*.html
 
 # Dependencies
 /node_modules
