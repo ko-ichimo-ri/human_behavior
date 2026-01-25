@@ -7,6 +7,10 @@ email: vqlc_55431231853211@icloud.com
 theme: jekyll-theme-minimal
 markdown: kramdown
 
+# MathJax configuration for LaTeX support
+mathjax:
+  enable: true
+
 # URL settings (adjust if using custom domain)
 url: "https://ko-ichimo-ri.github.io"
 baseurl: "/human_behavior"
