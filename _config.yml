@@ -7,6 +7,15 @@ email: vqlc_55431231853211@icloud.com
 theme: jekyll-theme-minimal
 markdown: kramdown
 
+# Kramdown configuration for proper LaTeX rendering
+kramdown:
+  input: GFM
+  hard_wrap: false
+  math_engine: mathjax
+  math_engine_opts:
+    preview: true
+    preview_as_code: false
+
 # MathJax configuration for LaTeX support
 mathjax:
   enable: true
