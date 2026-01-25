@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Human Behavior
+title: 10 categories of human activity / 人間活動の10分類
 ---
 
-# Human Behavior 📚
+# 10 categories of human activity / 人間活動の10分類 📚
 
 Welcome to the Human Behavior book project. Choose your language:
 
