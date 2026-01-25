@@ -87,7 +87,7 @@ Let's look at other concrete examples of "correctness/incorrectness." Suppose th
 
 For convenience in classification, when "objects" have "validity," we call correctness/incorrectness "truth/falsehood"; when "individuals" have "validity," we call it "beauty/ugliness"; when "society" has "validity," we call it "good/evil." Thus, mathematics is about "truth/falsehood," and shopping is about "beauty/ugliness."
 
-Whether "correctness/incorrectness" is "truth/falsehood," "beauty/ugliness," or "good/evil" depends on context. Let's examine the shopping example. Suppose we shoplifted something we wanted to buy. If we felt disgusted by ourselves and stopped shoplifting, we would consider shoplifting "ugly" and payment-based shopping "beautiful." Conversely, some unscrupulous person who shoplift and roleplay as a phantom thief from anime or drama might consider shoplifting "beautiful." Changing perspective, we might consider how shoplifting harms the store and gets us arrested. If we didn't shoplift, the feelings and attitudes of ourselves, store clerks, and police would be different. Using social norms—the input/output of "society" consisting of ourselves and others who can change—as our standard, we would call shoplifting "evil" and payment as "good." In any case, it's context-dependent.
+Whether "correctness/incorrectness" is "truth/falsehood," "beauty/ugliness," or "good/evil" depends on context. Let's examine the shopping example. Suppose we shoplifted something we wanted to buy. If we felt disgusted by ourselves and stopped shoplifting, we would consider shoplifting "ugly" and payment-based shopping "beautiful." Conversely, some unscrupulous person who shoplifts and roleplay as a phantom thief from anime or drama might consider shoplifting "beautiful." Changing perspective, we might consider how shoplifting harms the store and gets us arrested. If we didn't shoplift, the feelings and attitudes of ourselves, store clerks, and police would be different. Using social norms—the input/output of "society" consisting of ourselves and others who can change—as our standard, we would call shoplifting "evil" and payment "good." In any case, it's context-dependent.
 
 One thing to note is that we cannot assign "development" to "objects." "Individuals" and "society" have one or more things we can change, so we can assign "development" to them. "Objects" have 0 changeable things. For example, without changing axioms or rules of inference, we can develop our guesses about the truth of mathematical propositions, but humans cannot change the truth value or calculation result of propositions. Of course, this is just one aspect of mathematics; we must remember that the contribution of mathematicians, the choice of axioms and rules of inference, the generalization and abstraction of theories, and the beauty of proofs are all things that can develop. However, there is an aspect where natural phenomena and proofs are fixed independently of the "agent" like humans or AI, making them "objects" to which we cannot assign "development." To repeat, the reason is that the "agent" cannot change the input/output or processing that is "objects."
 
@@ -132,14 +132,16 @@ Based on the discussion above, let me classify human activity exhaustively witho
 
 Below is the classification table of human behavior. Note that "objects" cannot be given "development" because they are unchangeable.
 
-1. When assigning "validity" to "input/output" and "development" to "processing"
+1. When assigning "validity" to "input/output" and "development" to "processing"  
+   
    | | "Input/Output" is "Individual" | "Input/Output" is "Society" | "Input/Output" is "Object" |
    |---|---|---|---|
    | "Processing" is "Individual" | Art | Technology | Science |
    | "Processing" is "Society" | Economics | Law | Science |
    
    ※ "Objects" cannot be given "development," so they cannot become "processing" with "development"
-2. When assigning "validity" to "processing" and "development" to "input/output"
+2. When assigning "validity" to "processing" and "development" to "input/output"  
+   
    | | "Input/Output" is "Individual" | "Input/Output" is "Society" |
    |---|---|---|
    | "Processing" is "Individual" | Philosophy | Culture |
@@ -209,7 +211,7 @@ For scientific development, I recommend studying the history of chemistry and th
 I'll add this for clarity: "scientific technology" is not "science." It's "technology" applying insights from "science," and the "validity" is not "nature" but "consensus." Because you're making things, what you want to make you'll decide through discussion with yourself and others.
 
 ### Economics
-Activity that develop communication from ideas. From the perspective of freedom, individual actions to reduce social burden are developed from personal thoughts.
+Activity that develops communication from ideas. From the perspective of freedom, individual actions to reduce social burden are developed from personal thoughts.
 
 Note that this refers to economic activity, not economic systems.
 
@@ -266,7 +268,7 @@ Rather than thinking everything from scratch, we refine individual thinking thro
 For "development," Wikipedia's list of disciplines is surprisingly good. Books exist, but sadly lack comprehensiveness. For historical development, following the history of universities and humanities helps quite a bit.
 
 ### Politics
-Activity that develop consensus from communication. From the perspective of freedom, changing ways of thinking that reduce burden through less burdensome methods.
+Activity that develops consensus from communication. From the perspective of freedom, changing ways of thinking that reduce burden through less burdensome methods.
 
 Examples make it clearer: voting, demonstrations, mass media that change welfare and economy. Politics is certainly troublesome and difficult, but voting systems, demonstration know-how, and means like propaganda that gather cooperation with less trouble seem to reduce burden. Above all, society isn't moved easily by one person. Power is an excellent communication medium; rather than hearing everyone's opinion, which takes too long, a small group can decide quickly. This power is probably an important concept supporting "validity." That military force can change the state of the world in ways that are naturally classified as "politics" when thinking of it as "input/output" and "processing" between multiple nations.
 
@@ -275,7 +277,7 @@ For the direction of "validity," political philosophy seems good. For political 
 For political development, "Yamakawa World History," "Yamakawa Japanese History," and high school political economy reference materials are recommended.
 
 ### Mathematics
-Activity that develop ideas or consensus from calculation. From the perspective of freedom, ways of thinking of individuals and society are changed through methods independent of interpretation or decision-making.
+Activity that develops ideas or consensus from calculation. From the perspective of freedom, ways of thinking of individuals and society are changed through methods independent of interpretation or decision-making.
 
 The history of "validity" in mathematics is wonderful. From Euclid's Elements to the emergence and collapse of set theory to the birth of modern mathematics—it's dramatic and philosophical. Modern mathematics is simply amazing. The idea theory of "a line is a long line with width 0" is unnecessary. That's "philosophy." When we say "line," you're free to imagine elementary geometry or $` y=ax+b `$. The great invention of undefined predicates made truth verification depend only on mechanical manipulation of axioms and rules of inference, eliminating the need for correspondence with reality or interpretation. When you see $` 1+1=2 `$, you're free to imagine two apples or two oranges. When you hear natural numbers, you're free to imagine decimal, binary, Roman numerals, or Chinese numerals. Whether natural numbers start from 0 or 1 doesn't matter. All the natural numbers mentioned above satisfy Peano's axioms. In this way, the trial-and-error "processing" part can be "objects." Thanks to Cantor, Brouwer, Russell, Hilbert, and many other mathematicians.
 
