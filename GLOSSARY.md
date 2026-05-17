@@ -9,47 +9,118 @@ title: 用語集 / Glossary
 
 A Glossary of terms from the Human Behavior Classification Project (Chapter 1: Fundamentals, Chapter 2: Advanced Topics, Chapter 3: How to Live in the Age of AI and Robots) with English-Japanese correspondence.
 
-## 主要概念 / Core Concepts
+---
+
+## 第1章の基本的な構造的用語 / Chapter 1: Basic Structural Terms
+
+### 人間活動の三要素 / Three Elements of Human Activity
+
+| 日本語 | English |
+|--------|---------|
+| 処理 | Processing |
+| 入出力 | Input/Output |
+| 主体 | Agent / Subject |
+| 試行錯誤 | Trial and error |
+
+### 変更可能体：3つの変更可能性 / Modifiable Entities: Three Types of Changeability
+
+| 日本語 | English |
+|--------|---------|
+| 客体 | Object / Objective |
+| 個体 | Individual |
+| 社会 | Society |
+| 変更可能体 | Modifiable entity / Changeable entity |
+
+### 軸と成果：妥当性と発展性 / Axis and Results: Validity and Developability
+
+| 日本語 | English |
+|--------|---------|
+| 妥当性 | Validity |
+| 発展性 | Developability |
+| 短期的な軸 | Short-term axis |
+| 長期的な軸 | Long-term axis |
+
+### 判断軸：正否と真善美 / Judgment Axes: Correctness/Incorrectness and Truth/Goodness/Beauty
+
+| 日本語 | English |
+|--------|---------|
+| 正 | Correct |
+| 否 | Incorrect |
+| 真 | True |
+| 偽 | False |
+| 美 | Beautiful |
+| 醜 | Ugly |
+| 善 | Good |
+| 悪 | Evil |
+
+### 自由と束縛：3つの性質 / Freedom and Constraints: Three Properties
+
+| 日本語 | English |
+|--------|---------|
+| 主体性 | Subjectivity / Agency |
+| 普遍性 | Universality |
+| 過重性 | Weight / Dominance |
+| 自由 | Freedom |
+| 束縛 | Constraint |
+| 双対性 | Duality |
+
+### 感覚と認知 / Senses and Cognition
+
+| 日本語 | English |
+|--------|---------|
+| 感性 | Sensitivity / Sensibility |
+| 知性 | Intellect / Intelligence |
+| 理性 | Reason / Rationality |
+| 聴覚 | Hearing / Auditory sense |
+| 視覚 | Vision / Visual sense |
+| 触覚 | Touch / Tactile sense |
+| 嗅覚 | Smell / Olfactory sense |
+| 味覚 | Taste / Gustatory sense |
+
+---
+
+## 第1章の分類理論 / Chapter 1: Classification Theory
+
+### 分類の原理 / Classification Principles
 
 | 日本語 | English |
 |--------|---------|
 | 人間活動 | Human activities |
 | 分類 | Classification |
-| 客体 | Objective / Object |
-| 個体 | Individual |
-| 社会 | Society |
-| 主体 | Agent / Subject |
-| 存在 | Existence |
-
-## 活動の構造 / Structure of Activities
-
-| 日本語 | English |
-|--------|---------|
-| 入出力 | Input/Output |
-| 処理 | Processing |
-| 短期的な軸 | Short-term axis |
-| 長期的な軸 | Long-term axis |
-| 妥当性 | Validity |
-| 発展性 | Developability |
-| 試行錯誤 | Trial and error |
-| 変更可能体 | Changeable entity |
-
-## 分類の原理 / Classification Principles
-
-| 日本語 | English |
-|--------|---------|
 | 抽象化 | Abstraction |
 | 無機質な優しさ | Inorganic kindness / Objective kindness |
 | 人間機械論 | Mechanical philosophy of humans |
 | アニミズム | Animism |
 | メタ的視点 | Meta perspective |
-| 束縛 | Constraint |
-| 自由 | Freedom |
-| 双対性 | Duality |
 
-## 学問の分類 / Classification of Disciplines
+### 人間活動の10分類 / 10-fold Classification of Human Activity
 
-### 大分類 / Major Categories
+| 日本語 | English |
+|--------|---------|
+| 科学 | Science |
+| 芸術 | Art |
+| 技術 | Technology |
+| 経済 | Economics |
+| 法 | Law |
+| 思想 | Thought / Ideology |
+| 文化 | Culture |
+| 学問 | Scholarship / Academia |
+| 政治 | Politics |
+| 数学 | Mathematics |
+
+### 主体の性質 / Properties of Agents
+
+| 日本語 | English |
+|--------|---------|
+| 個性 | Individuality / Personality |
+| 社会性 | Sociality |
+| 客観性 | Objectivity |
+
+---
+
+## 第2章の分類と発展 / Chapter 2: Classification and Development
+
+### 学問の大分類 / Major Categories of Disciplines
 
 | 日本語 | English |
 |--------|---------|
@@ -133,7 +204,7 @@ A Glossary of terms from the Human Behavior Classification Project (Chapter 1: F
 | 博物館学 | Museology |
 | 博物学 | Natural history |
 
-## 内部分類の軸 / Internal Classification Axes
+### 内部分類の軸 / Internal Classification Axes
 
 | 日本語 | English |
 |--------|---------|
@@ -152,7 +223,7 @@ A Glossary of terms from the Human Behavior Classification Project (Chapter 1: F
 | 既知 | Known |
 | 未知 | Unknown |
 
-## 存在の種類 / Types of Existence
+### 存在の種類 / Types of Existence
 
 | 日本語 | English |
 |--------|---------|
@@ -195,31 +266,7 @@ A Glossary of terms from the Human Behavior Classification Project (Chapter 1: F
 | ルール | Rule |
 | 数 | Number |
 
-## 主体の性質 / Properties of Agents
-
-| 日本語 | English |
-|--------|---------|
-| 普遍性 | Universality |
-| 過重性 | Dominance / Overweight |
-| 主体性 | Subjectivity / Agency |
-| 個性 | Individuality / Personality |
-| 社会性 | Sociality |
-| 客観性 | Objectivity |
-
-## 感覚と認知 / Senses and Cognition
-
-| 日本語 | English |
-|--------|---------|
-| 感性 | Sensitivity / Sensibility |
-| 知性 | Intellect / Intelligence |
-| 理性 | Reason / Rationality |
-| 聴覚 | Hearing / Auditory sense |
-| 視覚 | Vision / Visual sense |
-| 触覚 | Touch / Tactile sense |
-| 嗅覚 | Smell / Olfactory sense |
-| 味覚 | Taste / Gustatory sense |
-
-## その他の重要用語（第1・2章） / Other Important Terms (Chapters 1-2)
+### 第2章の重要用語 / Chapter 2 Important Terms
 
 | 日本語 | English |
 |--------|---------|
@@ -244,7 +291,11 @@ A Glossary of terms from the Human Behavior Classification Project (Chapter 1: F
 | 二元論 | Dualism |
 | 心身二元論 | Mind-body dualism |
 
-## AI・ロボット関連用語 / AI and Robotics Terms (Chapter 3)
+---
+
+## 第3章：AI・ロボット時代の用語 / Chapter 3: Terms for the Age of AI and Robots
+
+### AI・ロボット関連用語 / AI and Robotics Terms
 
 | 日本語 | English |
 |--------|---------|
@@ -263,7 +314,7 @@ A Glossary of terms from the Human Behavior Classification Project (Chapter 1: F
 | モダリティ | Modality |
 | マルチモーダル | Multimodal |
 
-## 意識と感情に関する用語 / Terms Related to Consciousness and Emotion
+### 意識と感情に関する用語 / Terms Related to Consciousness and Emotion
 
 | 日本語 | English |
 |--------|---------|
@@ -277,7 +328,6 @@ A Glossary of terms from the Human Behavior Classification Project (Chapter 1: F
 | 長期記憶 | Long-term memory |
 | 性格 | Personality / Character |
 | 志向性 | Intentionality |
-| 個性 | Individuality / Personality |
 | 素と演技 | True self and performance |
 | システムプロンプト | System prompt |
 | デフォルト値 | Default value |
@@ -286,7 +336,7 @@ A Glossary of terms from the Human Behavior Classification Project (Chapter 1: F
 | 推論 | Inference / Reasoning |
 | 強化学習 | Reinforcement learning |
 
-## 自由意志と道徳性 / Free Will and Morality
+### 自由意志と道徳性 / Free Will and Morality
 
 | 日本語 | English |
 |--------|---------|
@@ -301,21 +351,18 @@ A Glossary of terms from the Human Behavior Classification Project (Chapter 1: F
 | 倫理的行動主義 | Ethical behaviorism |
 | 関係主義的アプローチ | Relational approach |
 
-## 人間とAIの関係性 / Relationship Between Humans and AI
+### 人間とAIの関係性 / Relationship Between Humans and AI
 
 | 日本語 | English |
 |--------|---------|
 | 人間中心主義 | Anthropocentrism / Human-centered worldview |
-| アニミズム | Animism |
-| 人間機械論 | Mechanical philosophy of humans |
 | 擬人化 | Anthropomorphization |
 | 身体性 | Embodiment / Corporeality |
-| 無機質な優しさ | Inorganic kindness / Objective kindness |
 | 胡蝶の夢 | Butterfly dream (from Zhuangzi) |
 | 差別 | Discrimination |
 | 嫌悪感 | Aversion / Disgust |
 
-## テクノロジーと未来に関する用語 / Technology and Future Terms
+### テクノロジーと未来に関する用語 / Technology and Future Terms
 
 | 日本語 | English |
 |--------|---------|
@@ -329,14 +376,13 @@ A Glossary of terms from the Human Behavior Classification Project (Chapter 1: F
 | センサ | Sensor |
 | コンテキスト | Context |
 | 注意機構 | Attention mechanism |
-| 現象学 | Phenomenology |
 
-## その他用語 / Miscellaneous Terms
+---
+
+## 数学と基礎科学の用語 / Mathematics and Fundamental Science Terms
 
 | 日本語 | English |
 |--------|---------|
-| 遺伝的プログラミング | Genetic programming |
-| ゲーム理論 | Game theory |
 | 公理 | Axiom |
 | 推論規則 | Rules of inference |
 | 無定義述語 | Undefined predicate |
@@ -346,19 +392,12 @@ A Glossary of terms from the Human Behavior Classification Project (Chapter 1: F
 | 計算の理論 | Theory of computation |
 | コンピュータ科学 | Computer science |
 | 表現学習 | Representation learning |
+| ゲーム理論 | Game theory |
+| 遺伝的プログラミング | Genetic programming |
 
 ---
 
-**Note**: This glossary is based on all three chapters of the Human Behavior Classification Project: 
-- Chapter 1: Fundamentals (第1章：基礎編)
-- Chapter 2: Advanced Topics (第2章：応用編)
-- Chapter 3: How to Live in the Age of AI and Robots (第3章：AI・ロボット時代の生き方)
+**Note**: This glossary is based on all three chapters of the Human Behavior Classification Project, organized to follow the progression from Chapter 1 (Fundamentals) through Chapter 3 (How to Live in the Age of AI and Robots).
 
-Terms are organized by category and across chapters for easier reference.
+本用語集は「人間活動の分類」プロジェクトの第1章から第3章へと進む順序で、すべての用語を整理しています。
 
-本用語集は「人間活動の分類」プロジェクトの第1章・第2章・第3章すべてに基づいています：
-- 第1章：基礎編
-- 第2章：応用編
-- 第3章：AI・ロボット時代の生き方
-
-用語は参照しやすいようにカテゴリ別に、各章にまたがって整理されています。
