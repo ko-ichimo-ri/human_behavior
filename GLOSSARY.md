@@ -258,6 +258,8 @@ A Glossary of terms from the Human Behavior Classification Project (Chapter 1: F
 | 論述 | Discourse | 体系的な議論や論述 |
 | 得点 | Score | 評価や競技における点数 |
 | 仮想 | Virtual | 実際には存在しないが計算上存在するもの |
+| 修辞 | Style | rhetoricよりも文芸的 |
+| 弁論術 | rhetoric | 弁論術のニュアンスが強い |
 | 論理 | Logic | 推論の正確性と妥当性 |
 | 仮定 | Assumption | 真実として受け入れるもの |
 | 証明 | Proof | 命題の真偽を立証する過程 |
