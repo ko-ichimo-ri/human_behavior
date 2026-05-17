@@ -104,7 +104,7 @@ A Glossary of terms from the Human Behavior Classification Project (Chapter 1: F
 | 法 | Law | 合意（社会の入出力）を元に意思疎通（社会の処理）を発展させる活動 |
 | 思想 | Thought | "Ideology"より中立的。表現から観念を発展させる活動 |
 | 文化 | Culture | 表現（個体の処理）を元に合意（社会の入出力）を発展させる活動 |
-| 学問 | Academia | "Scholarship"より学位取得中心。意思疎通から観念を発展させる活動 |
+| 学問 | Scholarship | "Academia"は大学・研究機関・研究者共同体を指しやすく、"Study"は勉強・個別研究の意味が強い。ここでは教育・研究・教養を含む知的探究の営みとして"Scholarship"を採用 |
 | 政治 | Politics | 意思疎通（社会の処理）を元に合意（社会の入出力）を発展させる活動 |
 | 数学 | Mathematics | 計算（客体の処理）を元に観念や合意を発展させる活動 |
 
