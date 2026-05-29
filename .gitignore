@@ -2,6 +2,7 @@
 /build
 /dist
 *.pdf
+!./flyer.pdf
 *.epub
 # Exclude HTML except layout templates
 *.html
