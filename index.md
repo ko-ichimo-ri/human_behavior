@@ -20,6 +20,6 @@ Welcome to the Human Behavior book project. Choose your language:
 日本語で書いたものを英語に機械翻訳していますので、更新が早く、正確なのは日本語版です。
 
 This is an open-source project exploring the principles of human behavior. The book is available in both English and Japanese.  
-The English version is translated from the Japanese one by LLM. The Japanese one will be updated earlier and have more exact contents than the English one.
+The English version is translated from the Japanese version using an LLM. The Japanese version is updated first and may be more accurate than the English version.
 
 **Repository**: [ko-ichimo-ri/human_behavior](https://github.com/ko-ichimo-ri/human_behavior)
