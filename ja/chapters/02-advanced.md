@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 第2章 - 応用編
+title: 第2章 - 応用編(準備中)
 ---
 
 # 第2章：応用編
